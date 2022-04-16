@@ -1,2 +1,5 @@
 sistema_academico/__pycache__
 sistema_academico/settings.py
+
+db.sqlite3
+*.pyc
